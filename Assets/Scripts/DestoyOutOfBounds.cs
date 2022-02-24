@@ -11,7 +11,7 @@ public class DestoyOutOfBounds : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        Debug.Log("YOOOO?");
     }
 
     // Update is called once per frame
